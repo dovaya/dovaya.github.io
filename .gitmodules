@@ -1,0 +1,3 @@
+[submodule "themes/dovaya-hugo-theme"]
+	path = themes/dovaya-hugo-theme
+	url = https://github.com/dovaya/dovaya-hugo-theme.git
