@@ -1,0 +1,26 @@
+@use "sass:color";
+@use "sass:map";
+
+// Colour map.
+$theme-light: (
+
+);
+
+// Colour map.
+$theme-dark: (
+
+);
+
+body {
+  color-scheme: dark;
+  @each $name, $color in $theme-dark {
+    --color-#{$name}: #{$color};
+  }
+
+  &.light-mode {
+    color-scheme: light;
+    @each $name, $value in $theme-light {
+      --color-#{$name}: #{$value};
+    }
+  }
+}

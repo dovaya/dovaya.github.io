@@ -1,0 +1,36 @@
+{{ $type := .Get "type" }}
+<ul class="custom mod-manager-list">
+    <li class="static-colors mod-manager-list-item mo2">
+    {{ with .Get "mo2" }}
+        {{ if eq ($type) "html"}}
+        {{ . | safeHTML }}
+        {{ else if eq ($type) "markdown"}}
+        {{ . | markdownify }}
+        {{ else }}
+        {{ . }}
+        {{ end }}
+    {{ end }}
+    </li>
+    <li class="static-colors mod-manager-list-item vortex">
+        {{ with .Get "vortex" }}
+            {{ if eq ($type) "html"}}
+            {{ . | safeHTML }}
+            {{ else if eq ($type) "markdown"}}
+            {{ . | markdownify }}
+            {{ else }}
+            {{ . }}
+            {{ end }}
+        {{ end }}
+    </li>
+    <li class="static-colors mod-manager-list-item manual">
+        {{ with .Get "manual" }}
+            {{ if eq ($type) "html"}}
+            {{ . | safeHTML }}
+            {{ else if eq ($type) "markdown"}}
+            {{ . | markdownify }}
+            {{ else }}
+            {{ . }}
+            {{ end }}
+        {{ end }}
+    </li>
+</ul>

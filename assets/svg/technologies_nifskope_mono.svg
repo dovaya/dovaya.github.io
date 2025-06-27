@@ -1,0 +1,35 @@
+<svg viewBox="0 0 305 305" width="305" height="305" xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(0 10)" fill="none" stroke="currentColor" stroke-width="5">
+      <path class="stroke-background" d="M72.5 62.5l230.278-30.253-.278.253v220l-230 30z" stroke-linecap="round"
+         stroke-linejoin="round" fill="currentColor" />
+      <path class="stroke-background" d="M2.5 32.5l70 30v220l-70-30z" stroke-linecap="round" stroke-linejoin="round"
+         fill="currentColor" />
+      <path class="stroke-background" d="M82.886 180.967l23.229-3.019z" fill="currentColor" stroke-linecap="round"
+         stroke-linejoin="round" />
+      <path class="stroke-background" d="M82.5 272.5v-55l210-28.7v53.7z" fill="currentColor" />
+      <path class="stroke-background"
+         d="M83.394 162.622l22.831-3.018zM82.755 143.445l23.494-2.356zM82.795 124.668l23.097-2.224zM97.529 195.488v-72zM82.405 196.723v-72z"
+         fill="currentColor" stroke-linecap="round" stroke-linejoin="round" />
+      <path class="stroke-background" d="M223.743 197.693v55.056zM150.752 207.79v55.055z" fill="currentColor" />
+      <path class="stroke-background fill-background"
+         d="M12.5 157.5v25l24.384 18.293-24.384 3.51v28.529l48 34.668v-25l-28.444-21.079L60.5 217.5v-25zM12.5 117.5v25l48 35.031V152.5zM12.5 47.5l-.1 55 48.1 35v-25l-12-8.75V77.5l-13-8.75V95l-10-7.15v-31.6z" />
+      <path class="stroke-background" d="M72.5 62.5v220zM2.5 32.5l70 30z" fill="currentColor" />
+      <path class="stroke-background" d="M112.5 72.5v130l150-20v-130z" fill="currentColor" />
+      <path class="fill-background" d="M127.5 82.5v105l120-17.5V67.5z" stroke="none" />
+      <path
+         d="M135.12 125.12c-1.084-5.855 2.643-11.727 5.277-17.068 2.69-5.458 4.81-12.878 10.551-14.897 3.553-1.249 8.034.618 10.862 3.104 4.317 3.792 4.797 10.452 6.828 15.827 2.262 5.987 3.633 12.29 5.953 18.254 1.55 3.987 2.96 8.11 5.312 11.683 1.802 2.74 3.376 6.746 6.61 7.284 2.228.371 4.428-1.587 5.934-3.271 2.939-3.288 3.538-8.085 5.053-12.226 1.866-5.1 3.4-10.317 4.966-15.517 1.92-6.381 3.255-12.942 5.43-19.241 1.333-3.859 2.175-8.086 4.656-11.328 1.703-2.227 4.03-4.181 6.672-5.12 3.413-1.214 7.724-2.12 10.862-.31 2.446 1.41 3.09 4.786 4.035 7.447 1.126 3.175 2.06 6.57 1.862 9.931-.102 1.732-.068 4.068-1.552 4.966-1.98 1.197-5.058.248-6.828-1.241-2.991-2.52-.352-9.699-4.034-11.018-1.92-.688-3.9 1.597-5.276 3.104-2.698 2.956-3.733 7.107-5.12 10.862-1.358 3.672-2.184 7.522-3.104 11.327a252.758 252.758 0 00-3.259 15.518c-.888 5.042-1.057 10.209-2.172 15.207-1.154 5.174-1.504 10.944-4.655 15.206-2.524 3.415-6.306 7.141-10.552 7.138-3.5-.003-6.384-3.262-8.69-5.896-3.2-3.655-4.624-8.56-6.517-13.035-2.562-6.056-4.154-12.484-6.517-18.62-1.533-3.98-3.448-7.807-4.966-11.793-1.594-4.189-2.332-8.72-4.344-12.725-.902-1.794-1.423-4.705-3.414-4.965-1.892-.247-3.216 2.187-4.345 3.724-1.4 1.905-1.942 4.312-2.793 6.517-.948 2.456-1.725 4.975-2.574 7.467-.701 2.06-.586 4.607-2.081 6.188-1.149 1.215-3.041 2.296-4.656 1.863-1.778-.478-3.078-2.534-3.413-4.345z"
+         fill="currentColor" stroke="currentColor" />
+      <circle class="fill-background" cy="241.239" cx="115.935" r="17.001" stroke-linecap="round"
+         stroke-linejoin="round" />
+      <circle class="fill-background" cy="64.876" cx="284.027" r="11.72" />
+      <circle class="fill-background" cy="151.391" cx="282.99" r="11.72" />
+      <circle class="fill-background" cy="95.155" cx="93.853" r="11.72" />
+      <circle class="fill-background" cy="121.713" cx="283.048" r="9.144" />
+      <circle class="fill-background" cx="189.342" cy="231.024" r="17.001" stroke-linecap="round"
+         stroke-linejoin="round" />
+      <circle class="fill-background" cx="259.197" cy="220.463" r="17.001" stroke-linecap="round"
+         stroke-linejoin="round" />
+      <path class="stroke-background" d="M2.5 32.5l230-30 70 30-230 30z" stroke-linecap="round" stroke-linejoin="round"
+         fill="currentColor" />
+   </g>
+</svg>

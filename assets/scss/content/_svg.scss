@@ -1,0 +1,35 @@
+.fill-background {
+    fill: background;
+}
+.fill-accent {
+    fill: var(--color-accent);
+}
+.fill-accent-alt {
+    fill: var(--color-accent-alt);
+}
+.fill-text {
+    fill: var(--color-text);
+}
+
+.stroke-background {
+    stroke: background;
+}
+.stroke-accent {
+    stroke: var(--color-accent);
+}
+.stroke-accent-alt {
+    stroke: var(--color-accent-alt);
+}
+.stroke-text {
+    stroke: var(--color-text);
+}
+
+.color-text {
+    color: var(--color-text);
+}
+.stop-color-accent {
+    stop-color: var(--color-text);
+}
+.stop-color-accent-alt {
+    stop-color: var(--color-accent-alt);
+}

@@ -1,0 +1,32 @@
+@use "sass:map";
+@use "../variables" as variables;
+@use "../sizes" as sizes;
+@use "../colors" as colors;
+
+ul.mod-manager-list {
+  li {
+    // @include variables.border;
+
+    &.mo2 {
+      &::before {
+        background-image: url("/svg/mo2.svg");
+      }
+    }
+
+    &.vortex {
+      &::before {
+        background-image: url("/svg/vortex.svg");
+      }
+    }
+
+    &.manual {
+      &::before {
+        background-image: url("/svg/manual.svg");
+      }
+    }
+  }
+
+  li + li {
+    border-block-start: 0;
+  }
+}

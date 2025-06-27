@@ -1,0 +1,37 @@
+main:
+  - identifier: "Home"
+    name: "Home"
+    pageRef: "/"
+    weight: 10
+    params:
+      svg: "home-svgrepo-com"
+  - identifier: "Mods"
+    name: "Mods"
+    pageRef: "/mods"
+    weight: 20
+    params:
+      svg: "package-svgrepo-com"
+  - identifier: "Tools"
+    name: "Tools"
+    pageRef: "/tools"
+    weight: 30
+    params:
+      svg: "tools-svgrepo-com"
+  - identifier: "Articles"
+    name: "Articles"
+    pageRef: "/articles"
+    weight: 40
+    params:
+      svg: "book-svgrepo-com"
+  - identifier: "Blog"
+    name: "Blog"
+    pageRef: "/blog"
+    weight: 50
+    params:
+      svg: "pen-tool-svgrepo-com"
+  - identifier: "About"
+    name: "About"
+    pageRef: "/about"
+    weight: 60
+    params:
+      svg: "user-svgrepo-com"

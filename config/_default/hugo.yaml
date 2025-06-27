@@ -1,0 +1,68 @@
+baseURL: "https://dovaya.github.io"
+timeZone: "Europe/Zurich"
+languageCode: "en-US"
+languageDirection: ltr
+languageName: English
+title: "Dovaya"
+copyright: "2025. dovaya. All rights reserved."
+
+theme: "dovaya-hugo-theme"
+module:
+  hugoVersion:
+    min: "0.146.0"
+    
+markup:
+  goldmark:
+    extensions:
+      extras:
+        superscript:
+          enable: true
+    renderHooks:
+      link:
+        enableDefault: true
+    parser:
+      attribute:
+        title: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+params:
+  author:
+    name: "Dovaya"
+    description: "Computer Scientist. Visual Artist. Video Game Modder."
+    contact: "dovaya.creations@gmail.com"
+    links:
+      nexusmods: 
+        title: NexusMods
+        url: "https://next.nexusmods.com/profile/dovaya"
+        svg: nexusmods_mono
+        position: 1
+      github: 
+        title: GitHub
+        url: https://github.com/dovaya
+        svg: github-svgrepo-com
+        position: 2
+      youtube: 
+        title: YouTube
+        url: "https://www.youtube.com/@dovaya"
+        svg: youtube-svgrepo-com
+        position: 3
+      discord: 
+        title: Discord
+        url: "https://discord.com/users/873689321851461712"
+        svg: discord-svgrepo-com
+        position: 4
+      reddit: 
+        title: Reddit
+        url: https://www.reddit.com/user/dovaya/
+        svg: reddit-svgrepo-com
+        position: 5
+  description: Official Website of Dovaya.
+  images:
+    - logo.jpg
+
+permalinks:
+  page:
+    blog: "/blog/:year/:month/:day/:slug"
