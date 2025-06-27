@@ -6,6 +6,10 @@ languageName: English
 title: "Dovaya"
 copyright: "2025. dovaya. All rights reserved."
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 theme: "dovaya-hugo-theme"
 module:
   hugoVersion:
