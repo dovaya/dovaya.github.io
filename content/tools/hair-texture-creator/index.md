@@ -30,7 +30,7 @@ params:
 - [Salt and Wind - KS Hairdos - Update](/mods/salt-and-wind)
 
 {{< figure
-  src="/images/feature.png"
+  src="/images/feature.webp"
   alt="Main Functionality"
   width="100%"
   caption="Main Functionality"
