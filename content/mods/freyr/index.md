@@ -47,7 +47,7 @@ Note that this mod requires [Comely Coiffures](/mods/comely-coiffures) to work p
 - [Freyja, Freyr and Comely Coiffures for Skyrim (YouTube)](https://www.youtube.com/watch?v=nsJXux6cj38)
 - [Freyja, Freyr and Comely Coiffures for Enderal (YouTube)](https://www.youtube.com/watch?v=rowvt2d8gTY)
 - [Comparison Pictures for Skyrim](https://drive.google.com/drive/folders/1FJESVMko5Nxq-N0E4cQtbntublzvfntY)
-- [Comparison Pictures for Enderal]()
+- [Comparison Pictures for Enderal](https://drive.google.com/drive/folders/1Yv59uDEo_kOyA4glHZrYR7HgJTpft-SZ)
 
 ### {{< svg "link-svgrepo-com" >}} Related projects
 
