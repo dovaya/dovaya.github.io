@@ -6,6 +6,15 @@ summary: "Information about the release of the new tool [Hair Texture Creator](/
 description: "Tool Release: Hair Texture Creator | Information about the release of the new tool 'Hair Texture Creator'."
 tags:
   - Release
+params:
+  sections:
+    - section:
+        name: "Tools"
+        link: "/tools"
+        pages:
+          - page:
+              name: "Hair Texture Creator"
+              link: "/tools/hair-texture-creator"
 ---
 
 The new tool [Hair Texture Creator](/tools/hair-texture-creator) is out and available on [{{< svg "github-svgrepo-com" >}} GitHub](https://github.com/dovaya/hair-texture-creator)!

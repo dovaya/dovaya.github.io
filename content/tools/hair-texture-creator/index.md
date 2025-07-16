@@ -38,7 +38,7 @@ params:
 
 ## {{< svg "list-svgrepo-com" >}} Features
 
-This tool is comprised of several Python scripts and plugins that I wrote to create and update my mod [Salt and Wind - KS Hairdos - Update](https://www.nexusmods.com/skyrimspecialedition/mods/64707). They provide functionalities that help create new hair textures using pre-made resources in [GIMP](/technologies/gimp), an open-source image editor and 2D asset creation tool.
+This tool is comprised of several Python scripts and plugins that I wrote to create and update my mod [Salt and Wind - KS Hairdos - Update](/mods/salt-and-wind). They provide functionalities that help create new hair textures using pre-made resources in [GIMP](/technologies/gimp), an open-source image editor and 2D asset creation tool.
 
 The goal of these scripts and plugins is to automatise tedious tasks such as transferring alpha masks between layers and exporting the textures to DDS.
 
