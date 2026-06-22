@@ -1,10 +1,10 @@
 baseURL: "https://dovaya.github.io"
 timeZone: "Europe/Zurich"
-languageCode: "en-US"
+locale: "en-US"
 languageDirection: ltr
 languageName: English
 title: "Dovaya"
-copyright: "2025. dovaya. All rights reserved."
+copyright: "2025 - 2026. dovaya. All rights reserved."
 
 caches:
   images:
@@ -23,7 +23,7 @@ markup:
           enable: true
     renderHooks:
       link:
-        enableDefault: true
+        useEmbedded: fallback
     parser:
       attribute:
         title: true
@@ -36,7 +36,7 @@ params:
   author:
     name: "Dovaya"
     description: "Computer Scientist. Visual Artist. Video Game Modder."
-    contact: "dovaya.creations@gmail.com"
+    contact: "dovaya.dev@gmail.com"
     links:
       nexusmods: 
         title: NexusMods
@@ -63,6 +63,10 @@ params:
         url: https://www.reddit.com/user/dovaya/
         svg: reddit-svgrepo-com
         position: 5
+      tumblr:
+        title: Tumblr
+        url: https://dovaya.tumblr.com/
+        svg: tumblr-svgrepo-com
   description: Official Website of Dovaya.
   images:
     - logo.jpg
