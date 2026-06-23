@@ -1,8 +1,8 @@
 baseURL: "https://dovaya.github.io"
 timeZone: "Europe/Zurich"
 locale: "en-US"
-languageDirection: ltr
-languageName: English
+direction: ltr
+label: English
 title: "Dovaya"
 copyright: dovaya. All rights reserved.
 
