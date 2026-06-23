@@ -4,7 +4,7 @@ locale: "en-US"
 languageDirection: ltr
 languageName: English
 title: "Dovaya"
-copyright: "2025 - 2026. dovaya. All rights reserved."
+copyright: 2025 - 2026. dovaya. All rights reserved.
 
 caches:
   images:
@@ -35,7 +35,10 @@ pagination:
 params:
   author:
     name: "Dovaya"
-    description: "Computer Scientist. Visual Artist. Video Game Modder."
+    description:
+      - Computer Scientist. 
+      - Visual Artist. 
+      - Video Game Modder.
     contact: "dovaya.dev@gmail.com"
     links:
       nexusmods: 
