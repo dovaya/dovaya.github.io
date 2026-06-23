@@ -70,6 +70,7 @@ params:
         title: Tumblr
         url: https://dovaya.tumblr.com/
         svg: tumblr-svgrepo-com
+        position: 6
   description: Official Website of Dovaya.
   images:
     - logo.jpg
