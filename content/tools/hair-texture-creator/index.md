@@ -49,11 +49,11 @@ The goal of these scripts and plugins is to automatise tedious tasks such as tra
 
 ## {{< svg "settings-svgrepo-com" >}} Installation
 
-For installation instructions, check the "Installation" section on the [{{< svg "github-svgrepo-com" >}} GitHub Page](https://github.com/dovaya/hair-texture-creator).
+For installation instructions, check the "Installation" section on the [GitHub Page](https://github.com/dovaya/hair-texture-creator).
 
 ## {{< svg "move-svgrepo-com" >}} Usage
 
-For usage instructions, check the "Usage" section on the [{{< svg "github-svgrepo-com" >}} GitHub Page](https://github.com/dovaya/hair-texture-creator).
+For usage instructions, check the "Usage" section on the [GitHub Page](https://github.com/dovaya/hair-texture-creator).
 
 <!-- ## {{< svg "help-circle-svgrepo-com" >}} FAQ -->
 
@@ -64,4 +64,4 @@ For usage instructions, check the "Usage" section on the [{{< svg "github-svgrep
 
 ## {{< svg "download-svgrepo-com" >}} Downloads
 
-_**Hair Texture Creator**_ is open-source and available on [{{< svg "github-svgrepo-com" >}} GitHub](https://github.com/dovaya/hair-texture-creator).
+_**Hair Texture Creator**_ is open-source and available on [GitHub](https://github.com/dovaya/hair-texture-creator).
