@@ -15,6 +15,6 @@ Over the years, I have created various Blender [Python](/technologies/python) pl
 
 I am currently using Blender 4.4.
 
-## {{< svg "corner-down-right-svgrepo-com" >}} Resources
+## {{< text-with-icon "corner-down-right-svgrepo-com" "Resources"  >}}
 
 [Blender Python API](https://docs.blender.org/api/current/index.html)

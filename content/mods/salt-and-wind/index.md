@@ -24,7 +24,7 @@ params:
   dateFinished: 2022-03-20
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Salt and Wind - KS Hairdos - Update**_ provides Salt and Wind retextures for [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311) hairstyles that aren't covered by the [most up-to-date Salt and Wind mod](https://www.nexusmods.com/skyrimspecialedition/mods/44975). It covers the current KS Hairdos version 1.9.
 
@@ -35,7 +35,7 @@ _**Salt and Wind - KS Hairdos - Update**_ provides Salt and Wind retextures for 
   caption="New Textures"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Salt and Wind - KS Hairdos - Update**_ provides Salt and Wind retextures for [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311) hairstyles that aren't covered by the [most up-to-date Salt and Wind mod](https://www.nexusmods.com/skyrimspecialedition/mods/44975).
 
@@ -152,21 +152,21 @@ Thanks a lot to [mashanen](https://www.nexusmods.com/skyrimspecialedition/users/
   caption="Original | Mod"
 >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 **Compatible with everything.**
 
 For information about the compatibility of specific mods, check the "Compatibility" section of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" section of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "heart-svgrepo-com" >}} Credits
+## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [Kalilies](https://next.nexusmods.com/profile/Kalilies), for [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311)
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Salt and Wind - KS Hairdos - Update**_  is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

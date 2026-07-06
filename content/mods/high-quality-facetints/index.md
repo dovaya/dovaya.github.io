@@ -20,11 +20,11 @@ params:
   dateFinished: 2022-07-11
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**High Quality FaceTints**_ replaces all NPC FaceTints with high-quality ones, optionally with or without make-up, face discolouration and dirt. All textures are 1024x1024px and use mipmaps. They are compressed using BC1 compression.
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Head Mesh Fixes](/mods/head-mesh-fixes)
 - [Rhalâta Tattoo Revisited](/mods/rhalata-tattoo-revisited)
@@ -36,7 +36,7 @@ width="100%"
 caption="New FaceTint (Original | Mod)"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 The original NPC FaceTints are 256x256px and were created using the original low-resolution Skyrim tint masks. This results in blocky and smudged face appearances.
 
@@ -85,24 +85,24 @@ Check the pictures and file descriptions for more info and to make your decision
 - Dirt textures: [Total Character Makeover](https://www.nexusmods.com/skyrimspecialedition/mods/1037)
 - Calia's mark: My own retexture
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 **Compatible with everything.**
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 Use whichever mod manager you prefer or install manually. Let it overwrite everything if prompted.
 
 I recommend that you install [Head Mesh Fixes](/mods/head-mesh-fixes) and [Rhalâta Tattoo Revisited](/mods/rhalata-tattoo-revisited) before this mod to get the best visuals and no inconsistencies.
 
-## {{< svg "heart-svgrepo-com" >}} Credits
+## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [DomainWolf](https://next.nexusmods.com/profile/DomainWolf), for [Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE](https://www.nexusmods.com/skyrimspecialedition/mods/24482)
 - [gobbldygook](https://next.nexusmods.com/profile/gobbldygook), for [PAINTERLY - a High Res Vanilla Warpaint Retexture](https://www.nexusmods.com/skyrim/mods/67147)
 - [evgirunslaad](https://next.nexusmods.com/profile/evgirunslaad), for [Forsworn and Blackblood and Boethiah Tattoos 2k](https://www.nexusmods.com/skyrim/mods/76486)
 - [Luxrah](https://next.nexusmods.com/profile/Luxrah), for [Total Character Makeover](https://www.nexusmods.com/skyrimspecialedition/mods/1037)
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**High Quality FaceTints**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

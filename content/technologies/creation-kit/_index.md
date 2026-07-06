@@ -11,6 +11,6 @@ params:
 
 When using the SE version, be sure to install the essential bugfixing mods [Creation Kit Platform Extended for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/71371) by [perchik71](https://next.nexusmods.com/profile/perchik71) (when using an older version of SE, use [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) by [Nukem](https://www.nexusmods.com/skyrimspecialedition/users/4995023)).
 
-## {{< svg "corner-down-right-svgrepo-com" >}} Resources
+## {{< text-with-icon "corner-down-right-svgrepo-com" "Resources"  >}}
 
 - [Exporting FaceGenData Instructions](https://www.nexusmods.com/skyrim/mods/76613)

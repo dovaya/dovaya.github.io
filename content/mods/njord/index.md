@@ -24,11 +24,11 @@ status:
 - In development
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Njord**_ will offer a complete overhaul of the children's head appearance. It will provide new, more aesthetically pleasing head meshes. There will be different meshes for both sexes now, together with new eye meshes, new mouth meshes (human and orc), new race morphs for all non-beast races, new CharGen morphs (customisation options like noses, eyes, lips, sliders etc.) and new, more expressive animations. All non-beast races will be covered.
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Freyja - Female Head Mesh Overhaul](/mods/freyja)
 - [Freyr - Male Head Mesh Overhaul](/mods/freyr)

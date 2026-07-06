@@ -27,16 +27,16 @@ params:
   dateFinished: 2022-08-20
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Comely Coiffures**_ is a hair replacer that replaces the male and female low-poly vanilla hairstyles with realistic and lore-friendly [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311) and [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)/[Apachii Sky Hair](https://www.nexusmods.com/skyrim/mods/10168) hairstyles. The goal of this mod is to give the hair a more polished and modern-game look whilst staying close to the vanilla aesthetic. Hairstyles that look good (like both male and female shaved heads and the male dreadlocks) are unchanged.
 
-### {{< svg "tv-svgrepo-com" >}} Showcase
+### {{< text-with-icon "tv-svgrepo-com" "Showcase" >}}
 
 - [Freyja, Freyr and Comely Coiffures for Skyrim (YouTube)](https://www.youtube.com/watch?v=nsJXux6cj38)
 - [Freyja, Freyr and Comely Coiffures for Enderal (YouTube)](https://www.youtube.com/watch?v=rowvt2d8gTY)
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Freyja - Female Head Mesh Overhaul](/mods/freyja)
 - [Freyr - Male Head Mesh Overhaul](/mods/freyr)
@@ -57,7 +57,7 @@ _**Comely Coiffures**_ is a hair replacer that replaces the male and female low-
   caption="Comely Coiffures (Enderal)"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Comely Coiffures**_ is a hair replacer. It alters all the hairstyle records (HDPT records) to point to suitable hairstyles from [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311) and [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)/[Apachii Sky Hair](https://www.nexusmods.com/skyrim/mods/10168) (or it leaves them unchanged if the vanilla hairstyles look fine). Since it directly links to the hair meshes and not to the records in the ESP/ESM files of these mods, it has no ESP/ESM dependencies, and it is therefore possible to not use [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311) and [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)/[Apachii Sky Hair](https://www.nexusmods.com/skyrim/mods/10168) themselves. (For people who don't want to install 600+ new hairstyles.)
 
@@ -375,7 +375,7 @@ Format: EDID: MODL - Model FileName
 
 {{< /spoiler >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 **Compatible** with any mod except other hair replacers.
 
@@ -384,15 +384,15 @@ To do this, load up your mods, Head Mesh Fixes and _**Comely Coiffures**_ in the
 
 For further information about the compatibility of specific mods, check the "Compatibility" section of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" section of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "heart-svgrepo-com" >}} Credits
+## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [Kalilies](https://next.nexusmods.com/profile/Kalilies), for [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)/[KS Hairdos - Renewal](https://www.nexusmods.com/skyrim/mods/68311)
 - [apachii](https://next.nexusmods.com/profile/apachii), for[Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)/[Apachii Sky Hair](https://www.nexusmods.com/skyrim/mods/10168) 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Comely Coiffures**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

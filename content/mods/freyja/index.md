@@ -27,7 +27,7 @@ params:
   dateFinished: 2022-08-06
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Freyja**_ offers a complete overhaul of the female head appearance. It provides a new, more aesthetically pleasing head mesh, new eye meshes, new mouth meshes (human and orc), new race morphs, new CharGen morphs (customisation options like noses, eyes, lips, sliders etc.) and new, more expressive animations.
 
@@ -40,14 +40,14 @@ The new meshes result in more beautiful female player characters and NPCs, with 
 - **Beautiful eyes, nose and lips customisation options** - more beautiful female characters and NPCs in general
 - **More expressive animations** - more lively speaking animations, more distinct mood indicators and generally more life-like movements
 
-### {{< svg "tv-svgrepo-com" >}} Showcase
+### {{< text-with-icon "tv-svgrepo-com" "Showcase" >}}
 
 - [Freyja, Freyr and Comely Coiffures for Skyrim (YouTube)](https://www.youtube.com/watch?v=nsJXux6cj38)
 - [Freyja, Freyr and Comely Coiffures for Enderal (YouTube)](https://www.youtube.com/watch?v=rowvt2d8gTY)
 - [Comparison Pictures for Skyrim](https://drive.google.com/drive/folders/1bdAGd_2Vcx9JUeBDjrnUo8bOUtxHpdX2)
 - [Comparison Pictures for Enderal](https://drive.google.com/drive/folders/1YQmLQYMXkuuVn7zHItIjTykdxaX0HZcn)
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Freyja - Female Head Mesh Overhaul](/mods/freyja)
 - [Freyr - Male Head Mesh Overhaul](/mods/freyr)
@@ -61,7 +61,7 @@ width="100%"
 caption="New Head Mesh"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Freyja**_ is a file replacer. It replaces the NIF and TRI files that serve as building blocks for the female head appearance (FaceGenData). These files determine how each race, CharGen option (customisation options like noses, eyes, lips, sliders etc.) and animation looks. Since every character is built and animated using these blocks, _**Freyja**_ ultimately affects the appearance of every NPC and the player character.
 
@@ -81,7 +81,7 @@ width="100%"
 caption="Head Mesh Comparison (Original | Mod)"
 >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 _**Freyja**_ is "just" a file replacer, which makes it compatible with any mod that doesn't replace the same files.
 This means that it is compatible with (basically) everything, including but not limited to:
@@ -130,7 +130,7 @@ The fixes of the following mods have been applied to the female meshes. You can 
 | Double Sided Vertex Human Mouth Fix SSE | >= 1.3 |
 | SUEMR SSE with Bijin AIO 2019 Support | >= 1.3 | -->
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" article of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
@@ -207,7 +207,7 @@ type="markdown"
 
 **Note**: If you don't like the look of the race-neutral normal map on a certain race, you can always switch the files back to get the race-specific look back. -->
 
-## {{< svg "help-circle-svgrepo-com" >}} FAQ
+## {{< text-with-icon "help-circle-svgrepo-com" "FAQ"  >}}
 
 For game specific questions, check the "FAQ" article of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
@@ -282,11 +282,11 @@ In addition to that, since _**Freyja**_ changes the underlying building blocks o
 TL;DR: _**Freyja**_ changes the building blocks for female character's head appearance (FaceGenData), not the female characters themselves. It therefore affects any and all female characters (base game and modded).
 {{< /spoiler >}}
 
-## {{< svg "heart-svgrepo-com" >}} Credits
+## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [Niroku](https://www.nexusmods.com/skyrim/users/35150865), for [Expressive Facial Animation -Female Edition-](https://www.nexusmods.com/skyrim/mods/92897)
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Freyja**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

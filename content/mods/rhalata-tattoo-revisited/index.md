@@ -20,7 +20,7 @@ params:
   dateFinished: 2022-08-03
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Rhalâta Tattoo Revisited**_ adds the Rhalâta tattoo as a tattoo option to the character creation menu, making it available to the player character. This allows the Rhalâta NPCs to use the standard face textures.
 
@@ -31,7 +31,7 @@ width="100%"
 caption="New Rhalâta Tattoos"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 The original Rhalâta tattoos are not standard tattoos like the ones you can select in the character creation menu. Rather, they are drawn directly on their own face textures, making them a skin option rather than a tattoo option. These skin options are assigned to the Rhalâta NPCs, which results in said NPCs not using the standard face textures. 
 
@@ -57,7 +57,7 @@ width="100%"
 caption="Male (Original | Mod)"
 >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 - Any mod that alters the NPCs that use the Rhalâta tattoo needs a compatibility patch. 
 - Any mod that alters the playable races needs a compatibility patch.
@@ -66,11 +66,11 @@ If you're unsure if a certain mod needs a patch, load both mods up in [xEdit](/t
 
 **Note**: If you are using a character overhaul mod like [Freyja](/mods/freyja) or [Freyr](/mods/freyr) that alters the appearance of the Rhalâta characters, you will need to re-export the FaceGenData from the [Creation Kit](/technologies/creation-kit) with the character overhaul mod as well as _**Rhalâta Tattoo Revisited**_  enabled.
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" section of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Rhalâta Tattoo Revisited**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

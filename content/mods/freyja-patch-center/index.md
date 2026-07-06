@@ -22,17 +22,17 @@ params:
   dateFinished: 2022-09-04
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 This is a collection of patches for [Freyja - Female Head Mesh Overhaul](/mods/freyja).
 
-### {{< svg "tv-svgrepo-com" >}} Showcase
+### {{< text-with-icon "tv-svgrepo-com" "Showcase" >}}
 
 - [Freyja, Freyr and Comely Coiffures for Skyrim (YouTube)](https://www.youtube.com/watch?v=nsJXux6cj38)
 - [Freyja, Freyr and Comely Coiffures for Enderal (YouTube)](https://www.youtube.com/watch?v=rowvt2d8gTY)
 - [Comparison Pictures for Skyrim](https://drive.google.com/drive/folders/1bdAGd_2Vcx9JUeBDjrnUo8bOUtxHpdX2)
 - [Comparison Pictures for Enderal](https://drive.google.com/drive/folders/1YQmLQYMXkuuVn7zHItIjTykdxaX0HZcn)
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Freyja - Female Head Mesh Overhaul](/mods/freyja)
 
@@ -43,7 +43,7 @@ width="100%"
 caption="Freyja - Patch Center"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 There are two types of patches:
 
@@ -62,7 +62,7 @@ Only the base game, Female Beauty and the specified mod (and eventual required m
 
 I will periodically expand the collection of patches. You may request patches in the comments (given the mods you request them for are not pornographic), but I offer no guarantee that I will actually create them - again, **the best approach to take is to export the FaceGenData for your mod load order yourself**.
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Freyja - Patch Center**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

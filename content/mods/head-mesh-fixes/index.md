@@ -28,7 +28,7 @@ params:
   dateFinished: 2022-07-29
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Head Mesh Fixes**_ fixes several issues with head parts, head mesh generation and NPC head meshes. This leads to both fixed visuals in the game as well as correct FaceGenData exporting from the [Creation Kit](/technologies/creation-kit).
 
@@ -41,7 +41,7 @@ _**Head Mesh Fixes**_ fixes several issues with head parts, head mesh generation
   caption="One of the included fixes"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Head Mesh Fixes**_ fixes several issues with head parts, head mesh generation and NPC head meshes. This leads to both fixed visuals in the game as well as correct FaceGenData exporting from the [Creation Kit](/technologies/creation-kit).
 
@@ -75,7 +75,7 @@ The fixes of the following mods have been incorporated for the female, male and 
 - [Double Sided Vertex Human Mouth Fix SSE](https://www.nexusmods.com/skyrimspecialedition/mods/25938) - Incorporated as of **V4.0**. (A comparable fix was applied to the Enderal male, female and children's mouth meshes.)
 - [SUEMR SSE with Bijin AIO 2019 Support](https://www.nexusmods.com/skyrimspecialedition/mods/18147) - Incorporated as of **V4.0**. (The same fixes were applied to the Enderal male, female and children's eye meshes.)
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 Compatible with [Enderal - Bug Fixes](https://www.nexusmods.com/enderal/mods/176). (Load _**Head Mesh Fixes**_ AFTER and let it overwrite everything.)
 
@@ -83,11 +83,11 @@ Any mod that alters the same records (mainly NPC records) will conflict. However
 
 **Note:** If you use a NPC appearance overhaul mod or a hair replacer, re-export the FaceGenData of the altered NPCs with said mod and this mod activated to avoid black faces.
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 Use whichever mod manager you prefer or install manually. Keep this mod high in your mod order to ensure compatibility with other mods.
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Head Mesh Fixes**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

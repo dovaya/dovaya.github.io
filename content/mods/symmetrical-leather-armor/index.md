@@ -24,7 +24,7 @@ params:
   dateFinished: 2021-01-10
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Symmetrical Leather Armour**_ replaces the female leather armour mesh with a new one that has symmetrical pauldrons, either with or without extruded parts.
 
@@ -35,21 +35,21 @@ _**Symmetrical Leather Armour**_ replaces the female leather armour mesh with a 
   caption="New Symmetrical Meshes (Option 1: Without extruded parts | Option 2: With extruded parts)"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 There are two main versions: one with two even pauldrons and one with two extruded pauldrons. Each of these versions comes with a version with and one without underwear.
 
 **Note**: This mod only replaces the *female* mesh. The male mesh and the ground object (the object that appears in your inventory) will stay the same. This means that all male characters and NPCs as well as the armour that shows up in your inventory will still have the asymmetrical armour mesh.
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 Compatible with everything that does not alter the female leather armour mesh, including textures replacers.
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 Use your favourite mod manager or install manually.
 
-## {{< svg "help-circle-svgrepo-com" >}} FAQ
+## {{< text-with-icon "help-circle-svgrepo-com" "FAQ"  >}}
 
 {{< spoiler title="Will you make a male version of this?" type="markdown" >}}
 Most probably not. The male mesh is much trickier to alter than the female one , and I don't have the time nor the interest to create a male version.
@@ -79,7 +79,7 @@ Yes, I am aware that the extruded part of the pauldron is there to protect the w
 I use the textures from the Oldrim mod "aMidianBorn Book of Silence".
 {{< /spoiler>}}
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Symmetrical Leather Armour**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

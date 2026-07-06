@@ -23,7 +23,7 @@ params:
   dateFinished: 2022-01-16
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Dreadlocks For Women**_ adds dreadlocks as a hair option for women to the game.
 
@@ -34,7 +34,7 @@ width="100%"
 caption="Front"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Dreadlocks For Women**_ includes a new hair option with a female-specific dreadlocks mesh that is based off the male base game model. It uses the same textures as the male version.
 
@@ -56,17 +56,17 @@ width="100%"
 caption="Right"
 >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 **Compatible with everything.**
 The ESP only has two records that add the new hair and hairline to the game.
 To ensure maximum compatibility with other mods, no NPC record was altered, so no NPC is using the hair.
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 Use your favourite mod manager or install manually.
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Dreadlocks For Women**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 

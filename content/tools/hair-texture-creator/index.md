@@ -21,11 +21,11 @@ params:
   dateFinished: 2025-07-06
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 [GIMP](/technologies/gimp) Python plugins that facilitate and automatise the creation of DDS texture files using pre-made resources.
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Salt and Wind - KS Hairdos - Update](/mods/salt-and-wind)
 
@@ -36,32 +36,32 @@ params:
   caption="Main Functionality"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 This tool is comprised of several Python scripts and plugins that I wrote to create and update my mod [Salt and Wind - KS Hairdos - Update](/mods/salt-and-wind). They provide functionalities that help create new hair textures using pre-made resources in [GIMP](/technologies/gimp), an open-source image editor and 2D asset creation tool.
 
 The goal of these scripts and plugins is to automatise tedious tasks such as transferring alpha masks between layers and exporting the textures to DDS.
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 - `gimp-2.10`: Original version, containing the original scripts that I wrote in 2022 for GIMP 2.10, the latest GIMP version at the time. They are feature-complete, and no more updates will be issued.
 - `gimp-3.0`: Updated version, containing a new and updated plugin for GIMP 3.0 based on the original 2.10 scripts. This is the current version that I am actively maintaining. You can expect updates to this version.
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" section on the [GitHub Page](https://github.com/dovaya/hair-texture-creator).
 
-## {{< svg "move-svgrepo-com" >}} Usage
+## {{< text-with-icon "move-svgrepo-com" "Usage"  >}}
 
 For usage instructions, check the "Usage" section on the [GitHub Page](https://github.com/dovaya/hair-texture-creator).
 
-<!-- ## {{< svg "help-circle-svgrepo-com" >}} FAQ -->
+<!-- ## {{< text-with-icon "help-circle-svgrepo-com" "FAQ"  >}} -->
 
-<!-- ## {{< svg "heart-svgrepo-com" >}} Credits
+<!-- ## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [Kalilies](https://next.nexusmods.com/profile/Kalilies), for the [KS Hairdos diffuse textures](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
 - [mashanen](https://next.nexusmods.com/profile/mashanen), for the [Salt and Wind texture named "4x squishh.dds"](https://www.nexusmods.com/skyrimspecialedition/mods/45147?tab=files) -->
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Hair Texture Creator**_ is open-source and available on [GitHub](https://github.com/dovaya/hair-texture-creator).

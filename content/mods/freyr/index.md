@@ -27,7 +27,7 @@ params:
   dateFinished: 2022-09-03
 ---
 
-## {{< svg "compass-svgrepo-com" >}} Introduction
+## {{< text-with-icon "compass-svgrepo-com" "Introduction" >}}
 
 _**Freyr**_ offers a complete overhaul of the male head appearance. It provides a new, more aesthetically pleasing head mesh, new eye meshes, new mouth meshes (human and orc), new race morphs, new CharGen morphs (customisation options like noses, eyes, lips, sliders etc.) and new, more expressive animations. All non-beast races are covered.
 
@@ -42,14 +42,14 @@ The new meshes result in more beautiful male player characters and NPCs, with so
 
 Note that this mod requires [Comely Coiffures](/mods/comely-coiffures) to work properly.
 
-### {{< svg "tv-svgrepo-com" >}} Showcase
+### {{< text-with-icon "tv-svgrepo-com" "Showcase" >}}
 
 - [Freyja, Freyr and Comely Coiffures for Skyrim (YouTube)](https://www.youtube.com/watch?v=nsJXux6cj38)
 - [Freyja, Freyr and Comely Coiffures for Enderal (YouTube)](https://www.youtube.com/watch?v=rowvt2d8gTY)
 - [Comparison Pictures for Skyrim](https://drive.google.com/drive/folders/1FJESVMko5Nxq-N0E4cQtbntublzvfntY)
 - [Comparison Pictures for Enderal](https://drive.google.com/drive/folders/1Yv59uDEo_kOyA4glHZrYR7HgJTpft-SZ)
 
-### {{< svg "link-svgrepo-com" >}} Related projects
+### {{< text-with-icon "link-svgrepo-com" "Related projects"  >}}
 
 - [Freyja - Female Head Mesh Overhaul](/mods/freyja)
 - [Freyr - Male Head Mesh Overhaul](/mods/freyr)
@@ -63,7 +63,7 @@ Note that this mod requires [Comely Coiffures](/mods/comely-coiffures) to work p
   caption="New Head Mesh"
 >}}
 
-## {{< svg "list-svgrepo-com" >}} Features
+## {{< text-with-icon "list-svgrepo-com" "Features"  >}}
 
 _**Freyr**_ is a file replacer. It replaces the NIF and TRI files that serve as building blocks for the male head appearance (FaceGenData). These files determine how each race, CharGen option (customisation options like noses, eyes, lips, sliders etc.) and animation looks. Since every character is built and animated using these blocks, _**Freyr**_ ultimately affects the appearance of every NPC and the player character.
 
@@ -83,7 +83,7 @@ All these files have been redone from scratch by me. I took great care to create
   caption="Head Mesh Comparison (Original | Mod)"
 >}}
 
-## {{< svg "zap-svgrepo-com" >}} Compatibility
+## {{< text-with-icon "zap-svgrepo-com" "Compatibility"  >}}
 
 _**Freyr**_ is "just" a file replacer, which makes it compatible with any mod that doesn't replace the same files.
 This means that it is compatible with (basically) everything, including but not limited to:
@@ -101,11 +101,11 @@ Furthermore, it is safe to install/uninstall whenever you wish.
 
 For further information about the compatibility of specific mods, check the "Compatibility" article of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "settings-svgrepo-com" >}} Installation
+## {{< text-with-icon "settings-svgrepo-com" "Installation"  >}}
 
 For installation instructions, check the "Installation" article of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
-## {{< svg "help-circle-svgrepo-com" >}} FAQ
+## {{< text-with-icon "help-circle-svgrepo-com" "FAQ"  >}}
 
 For game specific questions, check the "FAQ" article of the specific game version on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods).
 
@@ -192,11 +192,11 @@ That being said, you can still use _**Freyr**_ without my hair replacer. The gam
 
 {{< /spoiler >}}
 
-## {{< svg "heart-svgrepo-com" >}} Credits
+## {{< text-with-icon "heart-svgrepo-com" "Credits"  >}}
 
 - [Niroku](https://www.nexusmods.com/skyrim/users/35150865), for [Expressive Facial Animation -Male Edition-](https://www.nexusmods.com/skyrim/mods/93258)
 
-## {{< svg "download-svgrepo-com" >}} Downloads
+## {{< text-with-icon "download-svgrepo-com" "Downloads"  >}}
 
 _**Freyr**_ is available on [NexusMods](https://next.nexusmods.com/profile/dovaya/mods) for the following games:
 
